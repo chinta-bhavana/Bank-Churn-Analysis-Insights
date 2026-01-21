@@ -1,4 +1,4 @@
-📊 Bank-Churn-Analysis-Insights
+📊 Bank-customer-Churn-Analysis
 # 🏦 Domain
 Banking & Financial Analytics
 ## 🎯 Project Objective
