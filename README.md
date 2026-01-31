@@ -1,5 +1,6 @@
 🏦 Bank Customer Churn Analysis
 Python | Power BI | Data Analytics Project
+
 📌 Project Overview
 
 Customer churn is a critical challenge in the banking sector. This project analyzes 10,000 bank customers to identify key factors driving churn and provides data-driven insights to improve customer retention.
@@ -58,6 +59,7 @@ Gender-wise churn analysis
 Active vs Inactive customers
 Geography-wise churn
 Age group-wise churn
+
 2️⃣ Financial & Product Impact on Churn
 Balance range vs churn
 Credit score vs churn
